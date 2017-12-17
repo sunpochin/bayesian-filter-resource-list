@@ -11,9 +11,8 @@ a bayesian-filter resource list, starting from good intuition and projects with 
 
 # Particle Filter 
 ## Tutorial 
-* [Particle Filters Explained
-](https://www.youtube.com/watch?v=sz7cJuMgKFg)
-* 
+* [Particle Filters Explained](https://www.youtube.com/watch?v=sz7cJuMgKFg)
+* [Particle Filter Explained without Equations](https://www.youtube.com/watch?v=aUkBa1zMKv4&t=93s)
 ## Projects 
 
 * [A particle filter for tracking multiple humans in high-density crowds](https://github.com/NewProggie/Particle-Filter)
