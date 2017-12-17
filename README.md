@@ -3,7 +3,7 @@ a bayesian-filter resource list, starting from good intuition and projects with 
 
 ## Kalman Filter
 ### Tutorial 
-* [Special Topics - The Kalman Filter](www.youtube.com/watch?v=CaCcOwJPytQ)
+* [Special Topics - The Kalman Filter](https://www.youtube.com/watch?v=CaCcOwJPytQ)
 * [bobondemon](https://bobondemon.github.io/2017/05/10/Bayes-Filter-for-Localization/)
 * [rlabbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
