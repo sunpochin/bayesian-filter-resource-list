@@ -1,20 +1,20 @@
 # bayesian-filter-resource-list
 a bayesian-filter resource list, starting from good intuition and projects with open source codes.
 
-## Kalman Filter
-### Tutorial 
+# Kalman Filter
+## Tutorial 
 * [Special Topics - The Kalman Filter](https://www.youtube.com/watch?v=CaCcOwJPytQ)
 * [bobondemon](https://bobondemon.github.io/2017/05/10/Bayes-Filter-for-Localization/)
 * [rlabbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
-### Projects 
+## Projects 
 
-## Particle Filter 
-### Tutorial 
+# Particle Filter 
+## Tutorial 
 * [Particle Filters Explained
 ](https://www.youtube.com/watch?v=sz7cJuMgKFg)
 * 
-### Projects 
+## Projects 
 
 * [A particle filter for tracking multiple humans in high-density crowds](https://github.com/NewProggie/Particle-Filter)
 
@@ -37,6 +37,15 @@ a bayesian-filter resource list, starting from good intuition and projects with 
 
 * [Particle Filter Object Tracking - Person Crossing](https://www.youtube.com/watch?v=B4ianyQTnCE)
 
-## Contributing
+# Contributing
 
 Your contributions are always welcome!
+
+## Guidelines
+
+* Add one link per Pull Request.
+* Add a section if needed.
+    * Add the section description.
+    * Add the section title to Table of Contents.
+* Remove any trailing whitespace.
+
