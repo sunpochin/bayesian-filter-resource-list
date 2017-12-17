@@ -8,6 +8,7 @@ a bayesian-filter resource list, starting from good intuition and projects with 
 * [rlabbe](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 
 ## Projects 
+* [Balancing Robot (Arduino, IMU, PID controller)](https://barrettsprojects.wordpress.com/2014/03/11/balancing-robot-arduino/)
 
 # Particle Filter 
 ## Tutorial 
