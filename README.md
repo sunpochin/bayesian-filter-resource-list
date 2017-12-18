@@ -40,6 +40,8 @@ Tutorials and projects.
       change `cvCvtPixToPlane` to `cvSplit`.
 
 * [Particle Filter Object Tracking - Person Crossing](https://www.youtube.com/watch?v=B4ianyQTnCE)
+* [Lane Detection and Particle Filter Tracking](https://github.com/vinaykumarhs2020/lane_detection)
+* [lip-tracking-with-snake-active-contour-and-particle-filter](https://github.com/yihui-he/lip-tracking-with-snake-active-contour-and-particle-filter)
 
 # Contributing
 
